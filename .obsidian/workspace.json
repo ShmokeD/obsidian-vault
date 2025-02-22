@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "ba17fbe699874001",
+    "type": "split",
+    "children": [
+      {
+        "id": "a75355ba4dbfa18d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "818e50a8664678ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital Signal Processing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Digital Signal Processing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd5ee86234551e1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f550d8ed4c119d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e77f05a88935f35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "17230c84dbd331b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "45ac7cd03c095a45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ad476942af10002",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a7dfe8cada5e967",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77b87e2ff6f7d605",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "36dd5b6c21a0d289",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Oscilloscopes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Oscilloscopes"
+            }
+          },
+          {
+            "id": "75f6da798a2528aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eaf0064d9797c6a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6a531273dcfdf785",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dcb50a4d32ba677c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "67227672af2f71cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "latex-ocr:LatexOCR": false
+    }
+  },
+  "active": "dcb50a4d32ba677c",
+  "lastOpenFiles": [
+    "Cohort Notes/Week 5.1 Aka React Basics.md",
+    "Cohort Notes/Week 3.md",
+    "Cohort Notes/Week 1.5 Async.md",
+    "Cohort Notes/Week 2.2.md",
+    "Cohort Notes/Week 1.3 Aka General APIs.md",
+    "Cohort Notes/Week 1.2.md",
+    "Cohort Notes",
+    "Fourier Transform.md",
+    "Digital Signal Processing.md",
+    "Untitled.canvas",
+    "2025-02-22.md",
+    "Z - transform.md",
+    "OverTheWire/bandit/bandit1.md",
+    "OverTheWire/bandit/bandit8.md",
+    "Ideas.md",
+    "OverTheWire/bandit/bandit5.md",
+    "MOSFET.md",
+    "Attachments/Pasted image 20250221231949.png",
+    "Attachments/Pasted image 20250221231850.png",
+    "Attachments/Pasted image 20250221231552.png",
+    "Attachments/Pasted image 20250221222515.png",
+    "Linear Control Theory.md",
+    "Attachments/Pasted image 20250221165238.png",
+    "Attachments/Pasted image 20250221165208.png",
+    "Attachments/Pasted image 20250221164735.png",
+    "Attachments/Pasted image 20250221164400.png",
+    "Attachments/Pasted image 20250221164152.png",
+    "Attachments/Pasted image 20250221163901.png",
+    "Signal Flow Graph.md",
+    "Basic Signals.md",
+    "Feedback characteristics of Control Systems.md",
+    "Laplace Transform.md",
+    "Transmission Lines.md",
+    "Propagation Constant,  Characteristic Impedance.md",
+    "Voltage & Current Equations.md",
+    "Videos That Taught Me something.md",
+    "1 - Rough Notes/Things To Do.md",
+    "OverTheWire/bandit/bandit14.md",
+    "Attachments",
+    "OverTheWire/bandit",
+    "OverTheWire",
+    "6 - Full Notes",
+    "5 - Templates",
+    "4 - Index",
+    "3 - Tags",
+    "2 - Source Material",
+    "1 - Rough Notes"
+  ]
+}
