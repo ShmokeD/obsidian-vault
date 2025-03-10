@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a75355ba4dbfa18d",
+        "id": "fe110c3263db5286",
         "type": "tabs",
         "children": [
           {
-            "id": "818e50a8664678ec",
+            "id": "15cc721233fdba6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Signal Processing.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digital Signal Processing"
+              "title": "test"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DSA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for test"
             }
           },
           {
@@ -182,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,20 +199,28 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "latex-ocr:LatexOCR": false
+      "latex-ocr:LatexOCR": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcb50a4d32ba677c",
+  "active": "15cc721233fdba6e",
   "lastOpenFiles": [
+    "test.md",
+    "Rotate array by K elements.md",
+    "Random DSA Tidbits.md",
+    "Voltage & Current Equations.md",
+    "Transmission Lines.md",
+    "Propagation Constant,  Characteristic Impedance.md",
     "Cohort Notes/Week 5.1 Aka React Basics.md",
     "Cohort Notes/Week 3.md",
-    "Cohort Notes/Week 1.5 Async.md",
     "Cohort Notes/Week 2.2.md",
-    "Cohort Notes/Week 1.3 Aka General APIs.md",
+    "Cohort Notes/Week 1.5 Async.md",
+    "Attachments/Pasted image 20231224125239.png",
     "Cohort Notes/Week 1.2.md",
+    "Cohort Notes/Week 1.3 Aka General APIs.md",
+    "Digital Signal Processing.md",
     "Cohort Notes",
     "Fourier Transform.md",
-    "Digital Signal Processing.md",
     "Untitled.canvas",
     "2025-02-22.md",
     "Z - transform.md",
@@ -230,17 +239,10 @@
     "Attachments/Pasted image 20250221164735.png",
     "Attachments/Pasted image 20250221164400.png",
     "Attachments/Pasted image 20250221164152.png",
-    "Attachments/Pasted image 20250221163901.png",
     "Signal Flow Graph.md",
     "Basic Signals.md",
     "Feedback characteristics of Control Systems.md",
     "Laplace Transform.md",
-    "Transmission Lines.md",
-    "Propagation Constant,  Characteristic Impedance.md",
-    "Voltage & Current Equations.md",
-    "Videos That Taught Me something.md",
-    "1 - Rough Notes/Things To Do.md",
-    "OverTheWire/bandit/bandit14.md",
     "Attachments",
     "OverTheWire/bandit",
     "OverTheWire",
