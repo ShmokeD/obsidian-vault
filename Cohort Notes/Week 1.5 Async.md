@@ -40,5 +40,6 @@ async function main() {
 ```
 async functions are called and run simultaneously along with main code
 
+
 ![[Pasted image 20231224125239.png]]
 
