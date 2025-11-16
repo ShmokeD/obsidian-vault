@@ -1,6 +1,6 @@
- - [ ] LAB FILE
+- [ ] LAB FILE
 - [ ] menka assignment
 - [ ] aligners
 - [ ] clean room⏫ 
-- [ ] something else
-- [ ] 
+- [x] something else ✅ 2025-11-17
+- [ ] minor⏫ 
