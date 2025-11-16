@@ -220,10 +220,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e2d653644799169",
+  "active": "a75dbc77ff7ffb75",
   "lastOpenFiles": [
-    "Buy Order.md",
     "TODO LIST.md",
+    "Basic Signals.md",
+    "5 - Templates/Full Note.md",
+    "Buy Order.md",
     "Samsung mobile.md",
     "OverTheWire/bandit/bandit2.md",
     "Fourier Transform.md",
