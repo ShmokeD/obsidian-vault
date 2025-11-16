@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Signal Processing.md",
+                "file": "TODO LIST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digital Signal Processing"
+              "title": "TODO LIST"
             }
           }
         ]
@@ -163,8 +163,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -213,8 +213,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ebac263517695dc",
+  "active": "dcb50a4d32ba677c",
   "lastOpenFiles": [
+    "Digital Signal Processing.md",
     "Cohort Notes/Week 5.1 Aka React Basics.md",
     "Cohort Notes/Week 3.md",
     "Cohort Notes/Week 1.5 Async.md",
@@ -223,7 +224,6 @@
     "Cohort Notes/Week 1.2.md",
     "Cohort Notes",
     "Fourier Transform.md",
-    "Digital Signal Processing.md",
     "Untitled.canvas",
     "2025-02-22.md",
     "Z - transform.md",
