@@ -163,8 +163,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -176,9 +176,19 @@
               "icon": "lucide-info",
               "title": "File properties"
             }
+          },
+          {
+            "id": "0ebac263517695dc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -187,6 +197,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -198,10 +209,11 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "latex-ocr:LatexOCR": false
+      "latex-ocr:LatexOCR": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcb50a4d32ba677c",
+  "active": "0ebac263517695dc",
   "lastOpenFiles": [
     "Cohort Notes/Week 5.1 Aka React Basics.md",
     "Cohort Notes/Week 3.md",
