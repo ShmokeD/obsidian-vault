@@ -1,2 +1,6 @@
-- LAB FILE
-- menka assignment
+ - [ ] LAB FILE
+- [ ] menka assignment
+- [ ] aligners
+- [ ] clean room⏫ 
+- [ ] something else
+- [ ] 
