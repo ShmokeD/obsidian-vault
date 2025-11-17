@@ -4,3 +4,5 @@
 - [ ] clean room⏫ 
 - [x] something else ✅ 2025-11-17
 - [ ] minor⏫ 
+- [ ] Duracell battery
+- [ ] 
