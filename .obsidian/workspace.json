@@ -188,6 +188,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -203,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15cc721233fdba6e",
+  "active": "dcb50a4d32ba677c",
   "lastOpenFiles": [
     "test.md",
     "Rotate array by K elements.md",
