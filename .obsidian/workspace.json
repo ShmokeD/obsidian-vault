@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -213,11 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcb50a4d32ba677c",
+  "active": "9d444579b9a6eb36",
   "lastOpenFiles": [
     "MINOR.md",
-    "New Text Document.txt",
     "TO STUDY.md",
+    "New Text Document.txt",
     "Untitled",
     "Untitled.base",
     "test.md",
