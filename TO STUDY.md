@@ -1,5 +1,14 @@
 - VLSI
-	- [ ] D ALGO
+	- [x] D ALGO ✅ 2025-11-20
 	- [ ] PODEM
 	- [ ] FAN
-	- [ ] MINOR
+	- [ ] Time Expansion
+	- [ ] 9 V Algo
+	- [ ] General Scan Testing Schemes
+	- [ ] Delay Fault Testing
+	- [ ] BIST
+		- [ ] LFSR
+			- [ ] Characteristic Polynomial
+		- [ ] Compression Techniques
+			- [ ] Signature Analyzer
+		- [ ] Memory Testing
