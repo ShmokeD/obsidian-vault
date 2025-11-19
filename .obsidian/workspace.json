@@ -11,10 +11,14 @@
             "id": "9d444579b9a6eb36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TO STUDY.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TO STUDY"
             }
           }
         ]
@@ -199,11 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcb50a4d32ba677c",
+  "active": "9d444579b9a6eb36",
   "lastOpenFiles": [
+    "MINOR.md",
     "New Text Document.txt",
     "TO STUDY.md",
-    "Untitled.md",
     "Untitled",
     "Untitled.base",
     "test.md",
@@ -246,7 +250,6 @@
     "OverTheWire",
     "6 - Full Notes",
     "5 - Templates",
-    "4 - Index",
-    "3 - Tags"
+    "4 - Index"
   ]
 }

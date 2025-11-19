@@ -2,4 +2,4 @@
 	- [ ] D ALGO
 	- [ ] PODEM
 	- [ ] FAN
-	- [ ] 
+	- [ ] MINOR
