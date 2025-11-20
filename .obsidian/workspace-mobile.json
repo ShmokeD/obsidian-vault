@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "TO STUDY"
             }
+          },
+          {
+            "id": "28f49a72d10f8457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,8 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed74c757523d90fe",
+  "active": "28f49a72d10f8457",
   "lastOpenFiles": [
+    "Untitled.base",
+    "MINOR.md",
+    "/Untitled.base",
+    "/TO STUDY.md",
+    "/MINOR.md",
+    "Untitled.md",
     "TO STUDY.md"
   ]
 }
