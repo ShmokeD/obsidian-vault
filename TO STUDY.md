@@ -13,6 +13,7 @@
 			- [ ] Signature Analyzer
 		- [ ] Memory Testing
 - Antenna 
+	- [ ] Far Field Near Field Equatons
 	- [ ] Two Element Array
 	- [ ] N Element Linear Array
 	- [ ] Binomial Antenna
