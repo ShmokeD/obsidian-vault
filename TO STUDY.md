@@ -12,3 +12,6 @@
 		- [ ] Compression Techniques
 			- [ ] Signature Analyzer
 		- [ ] Memory Testing
+- Antenna
+	- [ ] Two Element Array
+	- [ ] N Element Linear Array
