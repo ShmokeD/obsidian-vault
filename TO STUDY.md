@@ -14,8 +14,8 @@
 		- [ ] Memory Testing
 - Antenna 
 	- [ ] Far Field Near Field Equatons
-	- [ ] Two Element Array
-	- [ ] N Element Linear Array
+	- [x] Two Element Array ✅ 2025-11-22
+	- [x] N Element Linear Array ✅ 2025-11-22
 	- [ ] Binomial Antenna
 	- [ ] Dolph T antenna
 	- Chapter 15
