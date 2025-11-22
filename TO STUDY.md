@@ -12,6 +12,17 @@
 		- [ ] Compression Techniques
 			- [ ] Signature Analyzer
 		- [ ] Memory Testing
-- Antenna
+- Antenna 
 	- [ ] Two Element Array
 	- [ ] N Element Linear Array
+	- [ ] Binomial Antenna
+	- [ ] Dolph T antenna
+	- Chapter 15
+		- [ ] reflector antenna
+		- [ ] plane antenna
+		- [ ] corner antenna
+		- [ ] parabolic antenna
+		- [ ] spherical antenna
+	- [ ] Chapter 6
+	- [ ] Sky Wave Propagation
+	- [ ] space wave ground wave
