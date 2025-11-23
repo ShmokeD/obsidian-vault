@@ -27,3 +27,5 @@
 	- [ ] Chapter 6
 	- [ ] Sky Wave Propagation
 	- [ ] space wave ground wave
+- CMOS
+	
