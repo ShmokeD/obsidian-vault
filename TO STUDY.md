@@ -28,4 +28,56 @@
 	- [ ] Sky Wave Propagation
 	- [ ] space wave ground wave
 - CMOS
+
+	- [ ] Dynamic Logic Circuits
+	- [ ] Leakage & Subthreshold Current in Dynamic Pass Gate
+	- [ ] Dynamic Bootstrapping Technique
+	- [ ] Dynamic Latches with a Single Clock
+	- [ ] Dynamic MIMO Logic Gates
+	- [ ] Cascading Problem
+	- [ ] CMOS Domino Logic
+	- [ ] NP Domino Logic (NORA Logic?)
+	- [ ] NORA CMOS Logic Circuit
+	- [ ] Single-Phase NP Dynamic Logic Structure
+	- [ ] Zipper CMOS Dynamic Logic
 	
+	- [ ] Pipelined True Single-Phase Clock (TSPC)
+	- [ ] Two-Phase Clocking and Registers
+	
+	- [ ] Static CMOS
+	- [ ] Propagation Delay = 5τ (rise/time pattern)
+	- [ ] FOM = Power × Delay
+	
+	- [ ] Analysis of CMOS
+	
+	- [ ] CMOS Gates: Equivalent Inverter  
+	- [ ] Example: Complex Gate  
+	  - [ ] L → Resistance  
+	  - [ ] W → Capacitance  
+	
+	- [ ] Gate Design
+	
+	- [ ] Definition of Propagation Delay Time
+	- [ ] Contamination Delay Time
+	- [ ] Rise Time
+	- [ ] Fall Time
+	- [ ] Edge Rate
+	- [ ] Gate & Diffusion Capacitance
+	- [ ] Equivalent RC Circuits
+	- [ ] Linear Delay Model (Cg + Cd)
+	- [ ] Logic Effort  
+	  - [ ] Delay in a Logic Gate  
+	  - [ ] Multistage Logic Networks  
+	  - [ ] Choosing the Best Number of Stages  
+	- [ ] Delay in a Logic Gate → CMOS VLSI Design
+	- [ ] Delay Plot
+	- [ ] Computing Logic Effort
+	- [ ] Catalog of Gates
+	- [ ] FO4 Operation
+	- [ ] Ring Oscillator
+	- [ ] Multistage Logic Networks
+	- [ ] Branching Effort
+	- [ ] Multistage Delays
+	- [ ] Designing Fast Circuits
+	- [ ] Gate Sizes
+	- [ ] 3-Stage Path
