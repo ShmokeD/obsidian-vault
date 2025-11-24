@@ -1,6 +1,6 @@
 - VLSI
 	- [x] D ALGO ✅ 2025-11-20
-	- [ ] PODEM
+	- [x] PODEM ✅ 2025-11-24
 	- [ ] FAN
 	- [ ] Time Expansion
 	- [ ] 9 V Algo
