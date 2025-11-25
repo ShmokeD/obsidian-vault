@@ -10,8 +10,8 @@
 	- [ ] BIST
 		- [x] LFSR ✅ 2025-11-25
 			- [x] Characteristic Polynomial ✅ 2025-11-25
-		- [ ] Compression Techniques
-			- [ ] Signature Analyzer
+		- [x] Compression Techniques ✅ 2025-11-25
+			- [x] Signature Analyzer ✅ 2025-11-25
 		- [ ] Memory Testing
 - Antenna 
 	- [ ] Far Field Near Field Equatons
