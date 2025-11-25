@@ -8,8 +8,8 @@
 	- [ ] General Scan Testing Schemes
 	- [ ] Delay Fault Testing
 	- [ ] BIST
-		- [ ] LFSR
-			- [ ] Characteristic Polynomial
+		- [x] LFSR ✅ 2025-11-25
+			- [x] Characteristic Polynomial ✅ 2025-11-25
 		- [ ] Compression Techniques
 			- [ ] Signature Analyzer
 		- [ ] Memory Testing
