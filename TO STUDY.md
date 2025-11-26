@@ -82,3 +82,13 @@
 	- [ ] Designing Fast Circuits
 	- [ ] Gate Sizes
 	- [ ] 3-Stage Path
+- MICROPROCESSOR 
+	- [ ] 8086
+		- [ ] INTERRUPTS
+		- [ ] ISA
+		- [ ] ARCHITECTURE
+	- [ ] ARM
+	- [ ] CACHE 
+	- [ ] MEMORY INTERFACING
+	- [ ] LABSHEETS
+	- [ ] PYQ + Midsem
