@@ -92,3 +92,5 @@
 	- [ ] MEMORY INTERFACING
 	- [ ] LABSHEETS
 	- [ ] PYQ + Midsem
+	- [ ] DRAM
+	- [ ] SRAM
