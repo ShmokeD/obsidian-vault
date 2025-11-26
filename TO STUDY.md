@@ -87,7 +87,7 @@
 		- [ ] INTERRUPTS
 		- [ ] ISA
 		- [ ] ARCHITECTURE
-	- [ ] ARM
+	- [x] ARM ✅ 2025-11-27
 	- [ ] CACHE 
 	- [ ] MEMORY INTERFACING
 	- [ ] LABSHEETS
