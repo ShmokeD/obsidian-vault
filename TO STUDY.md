@@ -88,9 +88,9 @@
 		- [ ] ISA
 		- [ ] ARCHITECTURE
 	- [x] ARM ✅ 2025-11-27
-	- [ ] CACHE 
-	- [ ] MEMORY INTERFACING
+	- [x] CACHE ✅ 2025-11-27
+	- [x] MEMORY INTERFACING ✅ 2025-11-27
 	- [ ] LABSHEETS
 	- [ ] PYQ + Midsem
-	- [ ] DRAM
+	- [x] DRAM ✅ 2025-11-27
 	- [ ] SRAM
