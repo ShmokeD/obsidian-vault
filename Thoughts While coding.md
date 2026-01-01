@@ -1,0 +1,3 @@
+- Obsidian extension that timestamps thoughts
+- vim extension that doesnt get in the way
+- can i do stff without vim extensions
