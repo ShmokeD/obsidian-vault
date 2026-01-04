@@ -1,3 +1,4 @@
  - [ ] atleast start with the decompiling
  - [ ] see what the problem is with python
- - [ ] sambhar 
+ - [ ] sambhar lake jaana hai
+ - [ ] hard diks
