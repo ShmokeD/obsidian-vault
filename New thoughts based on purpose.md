@@ -1,2 +1,3 @@
  - [ ] atleast start with the decompiling
- - [ ] s
+ - [ ] see what the problem is with python
+ - [ ] sambhar 
