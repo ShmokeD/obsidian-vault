@@ -1,4 +1,4 @@
  - [ ] atleast start with the decompiling
- - [ ] see what the problem is with python
+ - [x] see what the problem is with python
  - [ ] sambhar lake jaana hai
- - [ ] hard diks
+ - [ ] hard disk 
