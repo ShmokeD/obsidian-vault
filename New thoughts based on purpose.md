@@ -4,4 +4,8 @@
  - [ ] hard disk
  - [x] hostel form⏫ 
  - [ ] flight check
- - [ ] 
+- [x] tebt
+- [ ] rashan
+- [ ] puja samagri
+- [ ] paani
+- [ ] 
