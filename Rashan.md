@@ -1,0 +1,8 @@
+- [ ] chaval 
+- [ ] rahar dal 4kg
+- [ ] papad
+- [ ] chewda 4kg
+- [ ] chow mein 4pkt
+- [ ] sooji 4kg
+- [ ] chai Patti 1kg
+- [ ] refined oil
