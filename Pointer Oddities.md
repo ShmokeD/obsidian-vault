@@ -5,7 +5,7 @@
 
 **_During declaration_** → `*` says “this variable is a pointer.”
 
-***During usage*** → `*` says “dereference this pointer to get (or set) the value.”
+***During usage*** → `*` says “ dereference this pointer to get (or set) the value.”
 
 ### Adding 
 
