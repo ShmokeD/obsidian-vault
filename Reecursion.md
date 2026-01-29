@@ -7,3 +7,5 @@
 	Use Recursion when problem contains **Choices + Decisions***
 - **Recursive Tree**
 	Break input and get small outputs. No. of branches = no. of choices. 
+	![[Aditya Verma - Recursion Introduction and Identification [kHi1DUhp9kM - 1436x808 - 18m02s].png]]
+	
