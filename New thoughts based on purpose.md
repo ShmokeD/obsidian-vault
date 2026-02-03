@@ -1,11 +1,2 @@
- - [x] atleast start with the decompiling
- - [x] see what the problem is with python
- - [ ] sambhar lake jaana hai
+- [ ] sambhar lake jaana hai
  - [ ] hard disk
-- [ ] pyaz 5kg
-- [ ] kheera 2kg
-- [ ] gajar 3kg
-- [ ] tamatar 3kg
-- [ ]dhaniya patta
-- nimbu
-- 
