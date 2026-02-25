@@ -1,2 +1,11 @@
-- [ ] sambhar lake jaana hai
+ - [x] atleast start with the decompiling
+ - [x] see what the problem is with python
+ - [ ] sambhar lake jaana hai
  - [ ] hard disk
+ - [x] hostel form⏫ 
+ - [ ] flight check
+- [x] tebt
+- [ ] rashan
+- [ ] puja samagri
+- [ ] paani
+- [ ] 

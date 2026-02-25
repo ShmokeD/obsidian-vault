@@ -1,6 +1,0 @@
-- [ ] Cyber Shit
-- [ ] Files Complete 
-- [ ] Fundus
-- [ ] Rashmi
-- [ ] DSA
-- [ ] 
