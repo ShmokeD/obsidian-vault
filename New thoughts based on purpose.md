@@ -2,10 +2,10 @@
  - [x] see what the problem is with python
  - [ ] sambhar lake jaana hai
  - [ ] hard disk
-- [ ] pyaz 5kg
-- [ ] kheera 2kg
-- [ ] gajar 3kg
-- [ ] tamatar 3kg
-- [ ]dhaniya patta
-- nimbu
-- 
+ - [x] hostel form⏫ 
+ - [ ] flight check
+- [x] tebt
+- [ ] rashan
+- [ ] puja samagri
+- [ ] paani
+- [ ] 
